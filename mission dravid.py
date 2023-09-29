@@ -14,6 +14,9 @@ time_slots = [
     "14:10-14:40"
 ]
 
+
+
+
 # Define the student names and their class schedules
 students = {
     "Student 1": ["Class A", "Class B", "Class C", "Class D", "Class E", "Class F", "Class G", "Class H"],
